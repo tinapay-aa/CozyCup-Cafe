@@ -31,6 +31,6 @@ Email: <b>202480113@psu.palawan.edu.ph</b>
 <br>
 <img src="assets/img/mark.png">
 Name: <b>Mark Kevin B. Sanchez</b> <br>
-Email: <b></b>
+Email: <b>202480124@psu.palawan.edu.ph</b>
 
 ---
