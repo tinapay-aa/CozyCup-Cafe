@@ -4,7 +4,7 @@ This project will showcase a virtual cafe where people can chill out, enjoy a cu
 
 # Features
 - Place orders
-- Check openning hours
+- Check opening hours
 
 # Screen Captures
 <img src="assets/img/Landing Page.jpg">
