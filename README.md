@@ -20,3 +20,13 @@ This is the store ours page, where our customers can see our openning hours!
 <img src="assets/img/drinks.jpg"> 
 <img src="assets/img/desserts.jpg">
 This is our menu page! Where customers can see all our deliciously cozy foods and drinks
+
+# About the Authors
+<img src="assets/img/tinapay-aa.png">
+Name: <b>Russel Aaron A. Sarastal</b> <br>
+Email: <b>202480113@psu.palawan.edu.ph</b>
+
+<br>
+<img src="assets/img/mark.png">
+Name: <b>Mark Kevin B. Sanchez</b>
+Email: <b></b>
