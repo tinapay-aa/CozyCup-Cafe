@@ -22,15 +22,19 @@ This is the store ours page, where our customers can see our openning hours!
 This is our menu page! Where customers can see all our deliciously cozy foods and drinks
 
 # About the Authors
-<img src="assets/img/tinapay-aa.png" >
-<img src="assets/img/Facebook.svg" width="30px"> <b><a href="https://www.facebook.com/srstl26">Russel Aaron A. Sarastal</a></b> <br>
+<img src="assets/img/tinapay-aa.png" width="150"> <br>
+<p>
+<img src="assets/img/Facebook.svg" width="30px"><b><a href="https://www.facebook.com/srstl26">Russel Aaron A. Sarastal</a></b> <br>
 <img src="assets/img/Github.svg" width="30px"><b><a href="https://github.com/tinapay-aa">202480113@psu.palawan.edu.ph</a></b>
+</p>
 
 ---
 
 <br>
-<img src="assets/img/mark.png">
+<img src="assets/img/mark.png" width="150"> <br>
+<p>
 <img src="assets/img/Facebook.svg" width="30px"> <b><a href="https://www.facebook.com/mark.kevin.sanchez.802260">Mark Kevin B. Sanchez</a></b> <br>
-<img src="assets/img/Github.svg" width="30px"> <b><a href="https://github.com/vioxvanitas">202480124@psu.palawan.edu.ph</a></b>
+<img src="assets/img/Github.svg" width="30px"><b><a href="https://github.com/vioxvanitas">202480124@psu.palawan.edu.ph</a></b>
+</p>
 
 ---
