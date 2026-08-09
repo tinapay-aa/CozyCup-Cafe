@@ -26,7 +26,11 @@ This is our menu page! Where customers can see all our deliciously cozy foods an
 Name: <b>Russel Aaron A. Sarastal</b> <br>
 Email: <b>202480113@psu.palawan.edu.ph</b>
 
+---
+
 <br>
 <img src="assets/img/mark.png">
-Name: <b>Mark Kevin B. Sanchez</b>
+Name: <b>Mark Kevin B. Sanchez</b> <br>
 Email: <b></b>
+
+---
